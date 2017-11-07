@@ -1,7 +1,8 @@
 target/
 .mvn
-.mvnw
-.mvnw.cmd
+mvnw
+mvnw.cmd
+
 ### STS ###
 .apt_generated
 .classpath
